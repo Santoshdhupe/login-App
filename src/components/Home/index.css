@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.bgContainer {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.userCard {
+    background-image: linear-gradient(to bottom #2b2c49, #b5b9ff);
+    height: 60%;
+    width: 60%;
+    border-radius: 15px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
